@@ -201,6 +201,12 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.features-icon {
+  background-color: #f5f4fa;
+  padding: 25px 102.34px;
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
 /**************************** Work *******************************************/
 .work {
   padding-top: 0;
